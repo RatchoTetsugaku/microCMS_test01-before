@@ -680,3 +680,32 @@ table.table th {
     font-size: 80%;
   }
 }
+
+.infoSection {
+  clear: both;
+  padding: 20px 0;
+  overflow: hidden;
+}
+.infoSection h3 {
+  padding: 5px 10px;
+  font-size: 14px;
+  background: #358cac;
+  color: #fff;
+}
+
+.infoWrap {
+  background: #f4f4f4;
+  padding: 10px;
+}
+.infoItem {
+  margin: 10px;
+}
+.date {
+  display: inline-block;
+  color: #666;
+  margin-right: 2px;
+}
+.title {
+  display: inline-block;
+  font-weight: bold;
+}
